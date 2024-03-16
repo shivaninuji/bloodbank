@@ -1,4 +1,4 @@
-## Blood-Bank-&-Donation-Management-System
+## Blood-Bank
 
 Blood Bank Donation System is a PHP-based web project.
 
