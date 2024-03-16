@@ -1,2 +1,9 @@
-<h2>Username : admin</h2>
-<h2>Password : a123</h2>
+## Blood-Bank-&-Donation-Management-System
+
+Blood Bank Donation System is a PHP-based web project.
+
+### Admin Panel Login Credentials:
+
+- **Username:** `admin`
+- **Password:** `a123`
+
