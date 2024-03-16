@@ -1,6 +1,6 @@
-## Blood-Bank
+## BloodBank
 
-Blood Bank Donation System is a PHP-based web project.
+Blood Bank is a PHP-based web project.
 
 ### Admin Panel Login Credentials:
 
